@@ -1,5 +1,5 @@
 > [!WARNING]
-> This example is outdated. See the [agent-starter-python](https://github.com/livekit-example/agent-starter-python) repository for the latest example.
+> This example is outdated. See the [agent-starter-python](https://github.com/livekit-examples/agent-starter-python) repository for the latest example.
 
 # Python Voice Agent
 
