@@ -1,0 +1,17 @@
+{
+  "dispatch_rule": {
+    "rule": {
+      "dispatchRuleIndividual": {
+        "roomPrefix": "outbound-call-"
+      }
+    },
+    "roomConfig": {
+      "agents": [
+        {
+          "agentName": "outbound-agent"
+        }
+      ]
+    }
+  }
+}
+
