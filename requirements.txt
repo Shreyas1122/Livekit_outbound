@@ -15,4 +15,4 @@ uvicorn
 python-multipart
 motor
 hubspot-api-client
-
+ivekit-plugins-elevenlabs
